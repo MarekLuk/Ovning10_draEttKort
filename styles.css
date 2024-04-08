@@ -1,3 +1,7 @@
 .col-sm-12.col-md-3.border.border-primary.rounded.mx-auto.btn.btn-primary:hover {
-    background-color: #5594fa;
-    cursor: pointer; 
+	background-color: #5594fa;
+	cursor: pointer;
+}
+
+.viewcard {
+}
